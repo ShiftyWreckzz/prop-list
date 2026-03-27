@@ -1,10 +1,10 @@
 # prop-list
 
-A filtered and categorized list of 5,000+ FiveM props, designed to be used as a config file that scripts can easily pull from.
+A filtered and categorized list of 5,000+ FiveM props, designed to be used as a config file.
 
 ## About
 
-This project provides a Lua prop list for use in FiveM scripts. Props are organized into categories, making it easy to integrate into your own resources without having to manage a raw or uncategorized list.
+This project provides a Lua prop list for use in FiveM scripts. Props are organized into categories, making it easy to integrate into your own resources.
 
 ## Disclaimer
 
@@ -12,7 +12,7 @@ There are over 5,000 props that I had filtered down from 19,000, expect props to
 
 ## Usage
 
-Copy the config file directly into your own resource and reference it. THIS IS NOT A DRAG AND DROP.
+Copy the config file into your own resource and reference it. THIS IS NOT A DRAG AND DROP.
 
 ## Categories
 

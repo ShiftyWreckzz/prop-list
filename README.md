@@ -1,65 +1,121 @@
-# prop-list
+# Categorized prop list
 
-A filtered and categorized list of 5,000+ FiveM props, designed to be used as a config file.
+A filtered and categorized list of 9,852 FiveM props, designed to be used as a config file.
 
 ## About
 
-This project provides a Lua prop list for use in FiveM scripts. Props are organized into categories, making it easy to integrate into your own resources.
+This project provides a Lua prop list for use in FiveM scripts. Props are organized into categories and subcategories, making it easy to integrate into resources utilizing props.
 
 ## Disclaimer
 
-There are over 5,000 props that I had filtered down from 19,000, expect props to be in the wrong category. I will continue to improve the categorization as time goes on.
+There are over 9,800+ props that I had filtered down from 19,000, expect props to be in the wrong category/subcategory. I will continue to improve the categorization as time goes on.
 
 ## Usage
 
 Copy the config file into your own resource and reference it. THIS IS NOT A DRAG AND DROP.
 
-## Categories
+## Categories and Subcategories (15 Categories & 85 subcategories)
 
-- Barriers & Fences
-- Road Signs
-- Traffic Control
-- Exterior
+- Furniture
+  - Seating
+  - Tables
+  - Beds
+  - Storage
+  - Shop fittings
+  - Outdoor
+  - Other
+- Decor
+  - Plants
+  - Art & Frames
+  - Rugs & Textiles
+  - Ornaments
+  - Bathroom
 - Lighting
-- Nature & Vegetation
-- Flags & Flagpoles
-- Farm & Rural
-- Construction & Building
-- Scaffolding
-- Equipment & Tools
-- Painting
-- Containers, Crates & Skips
-- Barrels & Storage Tanks
-- Electrical Boxes & Panels
-- Heavy Machinery
-- Ventilation & Rooftop Utilities
-- Docks & Maritime
-- Factory & Warehouse
-- Residential Furniture
-- Office Furniture
+  - Lamps
+  - Work lights
+  - Street lights
+  - Candles & Flares
+  - Other
 - Electronics
-- Barbershop
-- Metro & Transit
-- Airport
-- Security
-- Auto Parts & Garage
+  - Computers
+  - TV & Audio
+  - Phones & Radios
+  - Cameras & Security
+  - Appliances
 - Food & Drink
-- Clothing & Fashion
-- Jewellery
-- Retail
-- Bar & Nightclub
-- Pool Hall & Darts
-- Sports & Recreation
-- Musical Instruments
-- Medical & Hospital
-- Drug Manufacturing
-- Money, Valuables & Counterfeiting
-- Biker Gang & Clubhouse
-- Weapons & Firearms
-- Signage & Billboards
-- Office Supplies & Stationery
-- Bathroom & Hygiene
-- Misc
+  - Food
+  - Drinks
+  - Glasses & Cups
+  - Kitchenware
+  - Stands & Machines
+- Containers
+  - Boxes
+  - Crates
+  - Bags & Cases
+  - Barrels
+  - Bins & Dumpsters
+  - Shipping containers
+- Structures
+  - Fences
+  - Gates
+  - Barriers
+  - Walls & Panels
+  - Stairs & Ramps
+  - Tents & Shelters
+  - Other
+- Street
+  - Traffic
+  - Signs
+  - Utility
+  - Vending & ATMs
+  - Flags
+- Industrial
+  - Tools
+  - Machinery
+  - Building materials
+  - Scaffolding
+  - Pallets
+  - Tanks & Gas
+  - Pipes & Cables
+  - Airport
+  - Farming
+  - Docks
+  - Other
+- Items
+  - Weapons
+  - Money & Valuables
+  - Drugs & Smoking
+  - Heist gear
+  - Paper & Office
+  - Clothing
+  - Toys & Hobbies
+  - Other
+- Emergency
+  - Medical
+  - Police & Evidence
+  - Fire & Safety
+- Leisure
+  - Gym
+  - Sports
+  - Racing & Stunts
+  - Beach & Pool
+  - Bar games
+  - Casino
+  - Music & DJ
+- Nature & Debris
+  - Rocks
+  - Wood & Logs
+  - Dirt & Sand
+  - Animals
+  - Rubbish
+  - Stains & Marks
+- Vehicles
+  - Parts
+  - Wheels & Tyres
+  - Trailers & Carts
+  - Other
+- Other
+  - Other
 
 _(Feel free to suggest or add new categories via a pull request)_
 
